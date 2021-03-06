@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "124156973481",
+    "project_id": "goadrich-testing",
+    "storage_bucket": "goadrich-testing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124156973481:android:83832286af9096c6dd74b8",
+        "android_client_info": {
+          "package_name": "io.github.discotraystudios.goadrich_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124156973481-saiu89tl7bo2rls26i3p0omc21e7s2j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjOUnCmlHfU0EGwuuALXqFNDNwiJo9JJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124156973481-saiu89tl7bo2rls26i3p0omc21e7s2j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
